@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color:white;
+    background-color: black;
+    font-family:'EB Garamond';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    margin-top: 80px;
+    width: 70vw;
+    height: auto;
+}
+.title{
+    color:white;
+    font-size:35px;
+    text-align: center;
+    margin-top: -5%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main{
+    text-align: center;
+    margin-bottom: 70px;
+}
+.image-div{
+    max-width: 700px;
+    margin-top: 7%;
+}
+.image-div{
+    max-width: 100%;
+    padding: 1-px 0;
+    display: block;
+}
+.biography{
+    margin-top: 5%;
+}
+.bio{
+    margin-top: 8%;
+    font-size: 30px;
+}
+.h-line{
+    width: 92%;
+    height: 3px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 8%;
+    margin-bottom:1%;
+    background-color: white;
+}
+.play{
+        margin-top: 7%;
+}@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color:white;
+    background-color: black;
+    font-family:'EB Garamond';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    margin-top: 80px;
+    width: 70vw;
+    height: auto;
+}
+.title{
+    color:white;
+    font-size:35px;
+    text-align: center;
+    margin-top: -5%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main{
+    text-align: center;
+    margin-bottom: 70px;
+}
+.image-div{
+    max-width: 700px;
+    margin-top: 7%;
+}
+.image-div{
+    max-width: 100%;
+    padding: 1-px 0;
+    display: block;
+}
+.biography{
+    margin-top: 5%;
+}
+.bio{
+    margin-top: 8%;
+    font-size: 30px;
+}
+.h-line{
+    width: 92%;
+    height: 3px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 8%;
+    margin-bottom:1%;
+    background-color: white;
+}
+.play{
+        margin-top: 7%;
+}
